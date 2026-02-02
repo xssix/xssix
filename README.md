@@ -17,15 +17,14 @@
 
 <h2 style="color:#22c55e;">💡 About Me</h2>
 <p style="color:#e5e7eb;">
-Minimalist dev, curious about systems, tooling, and clean code.  
-Focused on building real projects and experimenting with ideas.
+i just like making stuff
 </p>
 
 ---
 
 <h2 style="color:#f97316;">🧰 Languages & Tools</h2>
 
-
+<p>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=orange"/>
 <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=purple"/>
@@ -39,8 +38,5 @@ Focused on building real projects and experimenting with ideas.
 <h2 style="color:#38bdf8;">⚡ Current Focus</h2>
 
 ```txt
-• Building small tools & utilities
+• Malware develepor
 • Rust + Python projects
-• Low-level concepts exploration
-• Automation & productivity scripts
-• Fun experiments & learning by doing
