@@ -25,7 +25,8 @@ Focused on building real projects and experimenting with ideas.
 
 <h2 style="color:#f97316;">🧰 Languages & Tools</h2>
 
-<p>
+<p>![terminal](https://github.com/user-attachments/assets/a8728ebe-370a-4523-b8f4-6e5c8b31e61f)
+
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=orange"/>
 <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=purple"/>
