@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated typing effect -->
+<!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey,+I'm+here;Building+cool+stuff;Just+coding+things" />
 
 <br>
@@ -17,17 +17,21 @@
 
 <h2 style="color:#22c55e;">💡 About Me</h2>
 <p style="color:#e5e7eb;">
-Just a dev exploring systems and building things. Minimal, clean, focused on **coding + creativity**.
+Minimalist dev, curious about systems, tooling, and clean code.  
+Focused on building real projects and experimenting with ideas.
 </p>
 
 ---
 
-<h2 style="color:#f97316;">🧰 Languages</h2>
+<h2 style="color:#f97316;">🧰 Languages & Tools</h2>
+
 <p>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=orange"/>
 <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=purple"/>
 <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=blue"/>
 </p>
 
 ---
@@ -36,6 +40,7 @@ Just a dev exploring systems and building things. Minimal, clean, focused on **c
 
 ```txt
 • Building small tools & utilities
-• Experimenting with Rust & Python
-• Learning low-level concepts
-• Exploring automation & productivity scripts
+• Rust + Python projects
+• Low-level concepts exploration
+• Automation & productivity scripts
+• Fun experiments & learning by doing
