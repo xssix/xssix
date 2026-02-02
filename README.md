@@ -1,49 +1,30 @@
-<h1 align="center">☠️ Welcome ☠️</h1>
-
-<p align="center">
-  <b>Offensive Security • Malware Research • Reverse Engineering</b><br>
-  Curiosity-driven | Learning by breaking things
+<h2>About Me</h2>
+<p>
+  I focus on <b>malware development</b> and low-level security research.<br>
+  Self-taught developer working primarily on <b>Linux</b> systems.<br>
+  Interested in system internals, tooling, and offensive security concepts.
 </p>
 
----
+<hr>
 
-### 🧠 About Me
-- 🧪 Interested in **malware development & analysis (PoC / research)**
-- 🧩 Reverse engineering binaries & internals
-- 🐧 Linux & Windows internals
-- 🔬 Self-taught, always experimenting
-- ⚠️ Research & educational purposes only
+<h2>Languages</h2>
+<ul>
+  <li>Python</li>
+  <li>Rust</li>
+  <li>C#</li>
+  <li>C++</li>
+</ul>
 
----
+<hr>
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows"/>
-</p>
+<h2>Environment</h2>
+<ul>
+  <li>Linux</li>
+</ul>
 
----
+<hr>
 
-### 🧪 Areas of Interest
-- Malware research & development (lab)
-- Payload engineering
-- Reverse engineering
-- Exploit development (learning)
-- OPSEC & evasion concepts
-- Systems internals
-
----
-
-### 🌐 Contact / Presence
-- 💬 Discord: **yourname#0000**
-- 🧠 Forum: **xss.is / xss.in** (research)
-- 📡 Always learning, always experimenting
-
----
-
-### 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<h2>Contact</h2>
+<ul>
+  <li>Discord: <b>yourname#0000</b></li>
+</ul>
