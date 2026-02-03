@@ -38,5 +38,5 @@ i just like making stuff
 <h2 style="color:#38bdf8;">⚡ Current Focus</h2>
 
 ```txt
-• Malware develepor
-• Rust + Python projects
+• Obfuscation develepor
+• Licensing
